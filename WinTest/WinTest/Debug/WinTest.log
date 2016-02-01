@@ -1,0 +1,34 @@
+﻿Build started 2016-02-01 오전 11:19:32.
+     1>Project "C:\Users\B.J\Documents\GitHub\WinWin2015\WinTest\WinTest\WinTest.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\WinTest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\WinTest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt WinTest.cpp WinTestDlg.cpp
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         WinTestDlg.cpp
+         WinTest.cpp
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /IDebug\ /nologo /fo"Debug\WinTest.res" WinTest.rc 
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\B.J\Documents\GitHub\WinWin2015\WinTest\Debug\WinTest.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\WinTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\B.J\Documents\GitHub\WinWin2015\WinTest\Debug\WinTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\B.J\Documents\GitHub\WinWin2015\WinTest\Debug\WinTest.lib" /MACHINE:X86 Debug\WinTest.res
+         Debug\WinTest.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\WinTest.obj
+         Debug\WinTestDlg.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\WinTest.exe.embed.manifest" /manifest Debug\WinTest.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         WinTest.vcxproj -> C:\Users\B.J\Documents\GitHub\WinWin2015\WinTest\Debug\WinTest.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\WinTest.unsuccessfulbuild".
+         Touching "Debug\WinTest.lastbuildstate".
+     1>Done Building Project "C:\Users\B.J\Documents\GitHub\WinWin2015\WinTest\WinTest\WinTest.vcxproj" (build target(s)).
+
+빌드했습니다.
+
+Time Elapsed 00:00:00.52
